@@ -1,0 +1,13 @@
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.exe
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.deps.json
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.runtimeconfig.json
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.runtimeconfig.dev.json
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.dll
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.pdb
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.csprojAssemblyReference.cache
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.AssemblyInfoInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.AssemblyInfo.cs
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.csproj.CoreCompileInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.dll
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.pdb
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.genruntimeconfig.cache

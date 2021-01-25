@@ -1,0 +1,13 @@
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+E:\Github\Step-by-Step-Bootcamp\day-2\CampIntro\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
