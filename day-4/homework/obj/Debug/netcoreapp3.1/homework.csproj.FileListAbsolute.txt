@@ -1,0 +1,12 @@
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\bin\Debug\netcoreapp3.1\homework.exe
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\bin\Debug\netcoreapp3.1\homework.deps.json
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\bin\Debug\netcoreapp3.1\homework.runtimeconfig.json
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\bin\Debug\netcoreapp3.1\homework.runtimeconfig.dev.json
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\bin\Debug\netcoreapp3.1\homework.dll
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\bin\Debug\netcoreapp3.1\homework.pdb
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\obj\Debug\netcoreapp3.1\homework.AssemblyInfoInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\obj\Debug\netcoreapp3.1\homework.AssemblyInfo.cs
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\obj\Debug\netcoreapp3.1\homework.csproj.CoreCompileInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\obj\Debug\netcoreapp3.1\homework.dll
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\obj\Debug\netcoreapp3.1\homework.pdb
+E:\Github\Step-by-Step-Bootcamp\day-4\homework\obj\Debug\netcoreapp3.1\homework.genruntimeconfig.cache

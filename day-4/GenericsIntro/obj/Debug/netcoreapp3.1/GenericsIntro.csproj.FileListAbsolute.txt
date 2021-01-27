@@ -1,0 +1,13 @@
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+E:\Github\Step-by-Step-Bootcamp\day-4\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

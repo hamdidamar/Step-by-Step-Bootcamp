@@ -1,0 +1,13 @@
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+E:\Github\Step-by-Step-Bootcamp\day-4\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
