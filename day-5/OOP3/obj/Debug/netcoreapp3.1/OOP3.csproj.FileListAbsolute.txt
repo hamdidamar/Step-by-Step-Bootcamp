@@ -1,0 +1,13 @@
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+E:\Github\Step-by-Step-Bootcamp\day-5\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
