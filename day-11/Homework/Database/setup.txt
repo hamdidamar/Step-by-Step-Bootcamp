@@ -1,0 +1,9 @@
+1- Open Sql Management Studio
+2- Connect to your database
+3- Right click on databases and go to "Restore Database" option
+4- Select "Device" from the window that opens
+5- Click on the "..." icon on the right
+6- Click on the add button from the window that opens
+7- Then download the ReCap.bak file under the database folder and select it from local
+8- Say ok ok then installation will be complete
+Contact me if you have a problem
