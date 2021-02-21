@@ -45,7 +45,7 @@ namespace WebAPI.Controllers
         [HttpPost("Add")]
         public IActionResult Add(Brand brand)
         {
-            var result = _brandService.GetById(brand);
+            var result = _brandService.Add(brand);
             if (result.Success)
             {
                 return Ok(result);
